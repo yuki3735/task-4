@@ -31,5 +31,5 @@
         end
 
     else
-        puts "error"　
+        puts "error"
     end
